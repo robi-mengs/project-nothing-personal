@@ -415,7 +415,7 @@ Ultimately, fostering a truly fairer innovation ecosystem requires more than jus
 - United States Census Bureau. (2020). [*Disclosure Avoidance for the 2020 Census*](https://www.census.gov/about/policies/guidance/statistical-safeguards/disclosure-avoidance-2020-census.html)
 - Graham, S. J.& Hegde,D.(2015)
   [*Do Inventors Value Secrecy in Patenting?
- Evidence from the American Inventor's Protection Act*.](https://www.nber.org/papers/w20954)
+  Evidence from the American Inventor's Protection Act*.](https://www.nber.org/papers/w20954)
 - Oasis Labs. (2022). *IEX Case Study: Privacy-Preserving Data Analytics*. [*IEX
  Case Study: Privacy-Preserving Data Analytics*](https://www.oasislabs.com/blog/iex-case-study)
 - United States Patent and Trademark Office. (2021). [*Progress and Potential:
