@@ -409,6 +409,10 @@ Ultimately, fostering a truly fairer innovation ecosystem requires more than jus
 
 ### References  
 
+- Dwork, C.(2006)
+  [Differential Privacy.
+  In *Proceedings of the 33rd International Conference on Automata, Languages
+ and Programming (ICALP)*](https://doi.org/10.1007/11787006_1)
 - United States Census Bureau. (2020). [*Disclosure Avoidance for the 2020 Census*](https://www.census.gov/about/policies/guidance/statistical-safeguards/disclosure-avoidance-2020-census.html)
 - Graham, S. J.& Hegde,D.(2015)
   [*Do Inventors Value Secrecy in Patenting?
