@@ -92,6 +92,6 @@ This research provides actionable pathways for multiple stakeholders:
 
 By addressing the fundamental tension between protection and collaboration, this
 work aims to create an innovation landscape where good ideas can flourish
-regardless of their origin—where the focus shifts from fearing exposure to
+regardless of their origin, where the focus shifts from fearing exposure to
 enabling development, and where entrepreneurial potential isn't limited by
 systemic vulnerabilities.
