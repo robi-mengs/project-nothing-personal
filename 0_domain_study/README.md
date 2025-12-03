@@ -42,12 +42,6 @@ The domain study aims to:
 
 ## Folder Structure
 
-### 📁 Research Notes
-
-**Location:** `./research_notes/`
-
-Central hub for the research process documentation and findings.
-
 ### 📄 Problem Statement
 
 **Location:** `./problem_statement.md`
@@ -64,7 +58,6 @@ question and its rationale.
 
 - This systemic gap disproportionately harms inventors from marginalized
   backgrounds, blocking diverse talent and ideas from ever reaching the market.
-
 
 ### 📄 Background Review
 
