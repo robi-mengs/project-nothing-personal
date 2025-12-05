@@ -10,8 +10,6 @@ compromising their intellectual property
 **Key Themes**: Privacy Preserving Technologies, Fairer innovation ecosystem,
 underrepresented inventors, intellectual property, market intelligence
 
-
-
 ## 2. Defining Privacy Preserving Technologies
 
 - **Definition**: Privacy-Preserving Technologies (PPTs) are specialized tools
@@ -52,8 +50,6 @@ underrepresented inventors, intellectual property, market intelligence
 - **Zero-Knowledge Proofs**: A cryptographic method that allows one party to
   prove to another that they know a value without revealing the value itself.
 
-
-
 ### 3. Fairer Innovation Ecosystem
 
 - **Definition of a Fair Innovation Ecosystem**: An ecosystem that actively
@@ -66,7 +62,7 @@ underrepresented inventors, intellectual property, market intelligence
 
 - **Aspects of Fairness (General)**: Fairness can encompass multiple concepts,
   including:
-          
+
       - Fair treatment of sensitive data.
       - Fair representation in data/outcomes.
       - Fair distribution of benefits.
@@ -80,8 +76,6 @@ underrepresented inventors, intellectual property, market intelligence
   intellectual property protections to innovate effectively without the fear of
   exploitation.
 
-
-
 ### 4. Underrepresented Inventors
 
 - **Primary Focus**: Early-stage startup companies are the central example of
@@ -91,8 +85,6 @@ underrepresented inventors, intellectual property, market intelligence
 - **Context**: They often include founders from marginalized communities (racial
   and ethnic minorities)
 
-
-
 ### 5. Intellectual Property
 
 - **Definition of Intellectual Property (IP)**: IP refers to creations of the
@@ -101,8 +93,6 @@ underrepresented inventors, intellectual property, market intelligence
 
 - **Importance of IP Protection**: Protecting IP is crucial for inventors to
   secure their legal rights and benefit financially from their innovations.
-
-
 
 ### 6. Market Intelligence
 
@@ -118,8 +108,6 @@ underrepresented inventors, intellectual property, market intelligence
   - Effective marketing strategies.
 
   - Sustainable business growth.
-
-
 
 ## 7. Barriers & Challenges
 
@@ -227,8 +215,6 @@ Problem.
 - This reluctance persists even when the purpose of sharing is simply for
   validation.
 
-
-
 ## 8. Opportunities and Innovations
 
 ### 8.1 Opportunities
@@ -271,8 +257,6 @@ Problem.
 - **Human-Centric Problem Focus**: Specifically targets the most vulnerable
   participants in the innovation ecosystem (solo, underrepresented inventors)
   with a tailored solution
-          
-
 
 ## 9. Conceptual Anchors
 
@@ -294,11 +278,8 @@ Problem.
      (underrepresented inventors). It explains why the status quo is unfair.
 
 4. **The ***"Insight Access Gap"*** (The Measurable Metric)**:
-          
    - This is the bridge between the technical method (DP) and the ethical goal
      (Fairness). It gives a specific thing to measure and argue about
-
-
 
 ## 9. Justification for  Research  
 
@@ -337,7 +318,7 @@ Problem.
 
 - **Theoretical**: Bridges computer science and social science by framing DP as
   an offensive tool for fairness, not just a defensive shield for data.
-          
+
 - **Practical**:
 
   - **For Inventors**: Provides a blueprint for tools that lower the initial
@@ -349,8 +330,6 @@ Problem.
 - **Critical**: Assesses both the potential and limits of the approach, ensuring
   a realistic understanding of how technology can fit into broader systemic
   reforms
-          
-
 
 ## 10. Case Studies  
 
@@ -395,8 +374,6 @@ extracted without compromising the underlying "intellectual property." An
 inventor could, in theory, upload their idea's description to such a system to
 check for novelty against a private database without revealing the idea itself.
 
-
-
 ## 11. Conclusion  
 
 The traditional innovation ecosystem presents a significant and systemic barrier
@@ -425,8 +402,6 @@ approach moves beyond merely mitigating risks to actively enabling
 participation, thereby leveling the playing field and unlocking a wider pool of
 talent and ideas.
 
-
-
 ### References  
 
 - Dwork, C. (2006).[Differential Privacy. In *Proceedings of the 33rd
@@ -451,5 +426,7 @@ talent and ideas.
   Security.](https://doi.org/10.1145/2976749.2978318)
 - European Patent Office. (2023)
   [*Women's participation in Inventorship*](https://www.epo.org/news-events/news/2023/20230307.html)
-- Reuters Waymo Vs Uber
+- Reuters Waymo Vs Uber (2017)
   [Waymo accepts $245 million and Uber's 'regret' to settle self-driving car dispute](https://www.reuters.com/article/world/waymo-accepts-245-million-and-ubers-regret-to-settle-self-driving-car-disput-idUSKBN1FT2BD/)
+- Theranos (2018) [Theranos and Elisabeth
+  Holmes1](https://scholarworks.uark.edu/cgi/viewcontent.cgi?article=1072&context=finnuht)
