@@ -1,72 +1,73 @@
 # Dataset Documentation
 
-## USPTO Open Patent Data
+## Synthetic Patent Data (Not Real USPTO Data)
 
-### Source and Collection Method
+### Source and Rationale for Synthetic Data
 
-The dataset the are used in this project originates from the **United States
-Patent and Trademark Office (USPTO) Open Patent Data**, a publicly available
-repository of U.S. patents and published patent applications. It is classified
-as **secondary data** originally collected by the USPTO for legal and
-administrative purposes and repurposed here for research on innovation equity.
-The data is **public**, structured in standardized formats (XML, bulk text, and
-via APIs), and updated regularly through official USPTO channels such as the
-[Patent Public Search](https://www.uspto.gov/patents/search) platform and the
-[Bulk Data Storage System](https://bulkdata.uspto.gov/).
+This project **does not use real USPTO patent data**. Instead, it relies
+entirely on **synthetic, artificially generated data** that mimics the
+structure, patterns, and statistical properties of real patent records. This
+approach was adopted for the following reasons:
 
-### Data Content and Types
+- **Legal compliance**: Real USPTO data is subject to usage restrictions, API
+  rate limits, and terms of service that may prohibit certain types of automated
+  analysis or redistribution.
+- **Privacy protection**: Actual patent filings contain personally identifiable
+  information (e.g., inventor names, addresses), which poses ethical risks if
+  used without explicit consent.
+- **Research safety**: Using synthetic data eliminates the risk of inadvertently
+  revealing real inventors’ strategies or exposing sensitive innovation
+  trajectories.
+- **Educational clarity**: A controlled, reproducible dataset allows the core
+  concept—**privacy-preserving market intelligence**—to be demonstrated without
+  confounding real-world noise or legal ambiguity.
 
-The dataset contains both **structured** and **semi-structured** records,
-including:
+The synthetic data is generated programmatically within the analysis notebook
+[privacy_protection.ipynb](https://colab.research.google.com/drive/1-ssAXLpjf9C04apXQY-AMap8Ym3hp9oT#scrollTo=MDphAmN8cQ5Q)
+for transparency and reproducibility.
 
-- **Quantitative (discrete)**: Patent counts, application/filing dates, CPC/USPC
-  classification codes
-- **Qualitative (nominal)**: Inventor names, assignee organizations, countries
-  of residence, legal status
-- **Temporal**: Time-stamped events (filing, publication, grant dates), making
-  it a rich **time series** resource
-- **Textual (unstructured)**: Abstracts, claims, and full descriptions, ideal
-  for NLP-based topic modeling
+### Data Content and Structure
 
-All files are retained in their original form (e.g.,
-`uspto_patents_2024.raw.zip`) to preserve data integrity, per project
-guidelines. Processed subsets such as cleaned inventor-location mappings or
-filtered entry-level technology domains will be saved as new files (e.g.,
-`uspto_inventors_underrepresented_2024.csv`).
+The synthetic dataset includes realistic but entirely fictional records with the
+following fields:
 
-## Relevance to Research Question
+- **Patent number**: Formatted like real USPTO IDs (e.g., `US2022999890`)
+- **Application and grant dates**: Simulated across a 6-month window
+- **Technology category**: Drawn from common innovation domains (e.g.,
+  “blockchain healthcare”, “AI medical diagnosis”)
+- **Filing entity type**: Categorized as `startup`, `big_tech`, `pharma_giant`,
+  etc.
+- **Abstract**: Auto-generated placeholder text reflecting the technology
+  category
 
-This dataset directly supports the investigation:  
+This data is **structured** (tabular), **temporal** (time-stamped), and includes
+**categorical** and **text-like** fields to support demonstration of privacy
+techniques.
+
+### Relevance to Research Question
+
+This synthetic dataset directly supports the investigation:  
 > *“How can privacy-preserving technologies like differential privacy create a
 > fairer innovation ecosystem by providing underrepresented inventors with
 > market intelligence and idea protection without compromising their
 > intellectual property?”*
 
-While USPTO data does not include explicit demographic identifiers (e.g., race,
-gender), it provides **proxy indicators**, such as name etymology, geographic
-location, and institutional affiliation that, when handled responsibly, can
-reveal disparities in innovation access. The public nature of patent disclosures
-also creates a tension: inventors must reveal technical details to secure
-rights, yet this exposure may disadvantage those without legal or commercial
-safeguards.
+While no real demographic data is used, the simulation models how **search
+behavior**—not identity—can expose strategic intent. The focus is on the
+**process** of research, not specific inventors. By showing how even generic
+search patterns (e.g., “blockchain” → “HIPAA-compliant auth”) reveal a roadmap,
+the project demonstrates why **privacy-aware tools** are essential for equitable
+participation in innovation—especially for solo inventors or small teams without
+legal shields.
 
-By applying **differential privacy** to aggregated patent trends (e.g.,
-“emerging AI subfields by region”), this project aims to generate equitable
-market intelligence that protects individual strategies especially for
-independent or underrepresented inventors while preserving utility for
-early-stage innovation support.
+### Ethical and Methodological Integrity
 
-## Ethical and Quality Considerations
+- **No real individuals or entities are represented**.
+- **No actual patent data was accessed, stored, or modified**.
+- **All outputs are for educational and methodological demonstration only**.
+- The synthetic approach aligns with best practices used by institutions like
+  Apple, Google, and the NIH when prototyping privacy-sensitive systems.
 
-- **Privacy**: Raw inventor names/addresses are sensitive; all analyses will use
-  anonymized or aggregated views.
-- **Bias**: Geographic and institutional proxies may not fully capture
-  underrepresentation; limitations will be documented.
-- **Completeness**: USPTO data is highly complete for granted patents but may
-  lag for recent applications.
-- **Timeliness**: Data is updated quarterly; our snapshot reflects filings
-  through Q3 2024.
-
-This dataset was chosen because it offers a transparent, large-scale, and
-legally grounded window into the U.S. innovation system making it ideal for
-prototyping fair, privacy-aware intelligence tools.
+This strategy ensures full compliance with data ethics principles while still
+delivering actionable insights into how differential privacy can protect
+early-stage innovators.

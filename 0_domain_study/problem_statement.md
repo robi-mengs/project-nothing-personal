@@ -59,7 +59,7 @@ appropriation.
 This research matters because it applies cutting-edge privacy technologies to
 solve this fundamental tension. By creating systems that allow entrepreneurs to
 answer essential questions—"Is my idea novel?" "Who might collaborate?" "What
-market needs exist?"—without exposing their core intellectual property, we can
+market needs exist?" without exposing their core intellectual property, we can
 transform the risk calculus for innovation.
 
 The implications extend beyond individual protection. When we lower barriers for
