@@ -100,19 +100,13 @@ outreach guidance.
 │   ├── guide.md                       # Navigation aid
 │   └── README.md                      # Philosophy: why limited EDA is intentional
 ├── 4_data_analysis/                   # Core analysis: privacy protection demonstration
-│   ├── privacy_protection.ipynb       # Main notebook: risk simulation + differential privacy implementation
-│   ├── visuals/                       # Exported figures: search trails, before/after comparisons, metrics
 │   ├── guide.md                       # Navigation aid
 │   └── README.md                      # Overview of analytical approach and reproducibility
 ├── 5_communication_strategy/          # Outreach for inventors, educators, and open innovation advocates
-│   ├── README.md                      # Communication philosophy: starting small, growing trust
-│   ├── target_audience.md             # Personas: indie inventors, student researchers, micro-founders
-│   ├── email_outreach.md              # Template for sharing the notebook with early users
-│   └── one_pager_summary.md           # Plain-language summary for non-technical audiences
+│   └── README.md                      # Communication philosophy: starting small, growing trust
+
 
 ```
-
-
 
 ## Who Is This For?
 
