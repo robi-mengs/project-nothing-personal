@@ -146,45 +146,6 @@ outreach guidance.
   compliance checklist for ethical IP research designed for academic review and
   startup adoption.
 
-  ### Key Findings: What is Demonstrated
-
-- **Search patterns expose secret projects**:  
-  A founder’s evolving patent searches, from general (“blockchain”) to specific
-  (“HIPAA-compliant blockchain auth”), create a clear trail that reveals their
-  exact product roadmap, as shown in the *timeline visualization*.
-
-- **⚔️ Competitors can act on this trail**:  
-  The simulation shows competitors can file defensive patents just **30 days
-  after detecting the pattern**, potentially blocking the original
-  innovator—mirroring real cases like *Waymo vs. Uber*.
-
-- **🛡️ Differential privacy effectively masks intent**:  
-  By generalizing search terms (e.g., “authentication” → “security systems”) and
-  adding statistical noise to result counts, the **protected queries hide
-  critical implementation details** while preserving market insight.
-
-- **📊 Privacy vs. utility is tunable—and balanced**:  
-  At **ε = 1.0 (recommended setting)**, the system delivers:
-  - **85% protection** against idea leakage  
-  - **85% data utility** for strategic decisions  
-  This balance makes it viable for real-world startup use.
-
-- **📈 Visual proof of protection**:  
-  The side-by-side bar chart (“Raw vs. Protected Results”) confirms that:
-  - Raw searches expose a narrowing, high-intent trajectory  
-  - Protected searches appear as **broad, stable interest** in a general tech
-    area—**indistinguishable from background research**
-
-- **🧱 Synthetic data enables risk-free validation**:  
-  Using fully artificial patent records, we **ethically and legally**
-  demonstrated the threat and defense—without touching real USPTO data or
-  risking founder privacy.
-
-- **💡 Strategic conclusion**:  
-  **Differential privacy is not just a technical tool—it’s a business shield**.
-  Startups can now conduct essential IP research **without broadcasting their
-  secret sauce**, preserving first-mover advantage and funding potential.
-
 ### Repository Structure
 <!-- Repository Structure -->
 ```text
