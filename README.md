@@ -81,6 +81,41 @@ value. → See
 [`5_communication_strategy/README.md`](./5_communication_strategy/README.md) for
 outreach guidance.
 
+### Future Plans & Key Considerations
+
+- **Fine-tune differential privacy parameters** based on startup stage (stealth
+  vs. validation) and technology domain (e.g., biotech vs. software), ensuring
+  optimal balance between data utility and idea protection.
+- **Integrate real-world patent search proxies** (e.g., anonymized API calls via
+  privacy-preserving middleware) to test the framework against actual USPTO or
+  WIPO query patterns while never exposing raw search terms.
+- **Develop adaptive privacy budgets** that dynamically adjust based on search
+  specificity, frequency, and competitor activity signals (e.g., if similar
+  patents surge, increase noise).
+- **Quantify idea leakage risk** using information-theoretic metrics (e.g.,
+  mutual information between raw and protected queries) to objectively assess if
+  innovators’ concepts remain hidden.
+- **Create a privacy-preserving patent research toolkit** (e.g., browser
+  extension or CLI tool) that founders can use in real time without technical
+  expertise.
+- **Produce an artefact**: A reproducible research package including synthetic
+  datasets, privacy evaluation metrics, visualization dashboards, and a
+  compliance checklist for ethical IP research designed for academic review and
+  startup adoption.
+
+### My Project Vision
+
+ This project aims to rigorously evaluate whether differential privacy can
+ effectively shield early-stage innovators from unintentionally exposing their
+ breakthrough ideas during patent and market research. Future work includes
+ fine-tuning privacy parameters for different startup contexts, simulating
+ adversarial inference attacks to measure idea leakage, and developing adaptive
+ noise mechanisms that preserve research utility while masking strategic intent.
+ A key deliverable will be a public research artefact—including synthetic
+ datasets, evaluation metrics, and an open-source privacy wrapper—that enables
+ founders, researchers, and policymakers to adopt safe, ethical, and legally
+ compliant innovation practices without sacrificing competitive advantage.
+
 ### Repository Structure
 <!-- Repository Structure -->
 ```text
