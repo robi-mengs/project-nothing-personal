@@ -16,7 +16,7 @@ privacy-based mitigation strategy. It:
   risk reduction**.
 - Demonstrates through visual and numerical evidence that privacy protection
   hides project intent while preserving ~85% of market insight value.
-    
+
 **The synthetic patent dataset**: used in this project is generated
 programmatically to ensure legal compliance, ethical integrity, and
 reproducibility avoiding the use of real USPTO data, which may contain sensitive
