@@ -79,3 +79,5 @@ legal shields.
 This strategy ensures full compliance with data ethics principles while still
 delivering actionable insights into how differential privacy can protect
 early-stage innovators.
+
+[← Back to Project Overview](../README.md)
