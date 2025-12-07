@@ -37,3 +37,57 @@ and reuse. No external datasets are used; all data is synthetically generated
 for analytical demonstration. The focus is on **strategic insight**, **risk
 modeling**, and **privacy-aware research design** data cleaning or exploratory
 profiling.
+
+### 📊 Visual Outputs
+
+Explore key insights from our topic modeling through these visualizations:
+<!-- markdownlint-disable MD033 MD013 MD041-->
+|                                          |                                          |
+| :--------------------------------------- | :--------------------------------------- |
+| <div style="text-align: center;">           | <div style="text-align: center;">           |
+|   ![Secret revealing Line chart](../business%20impact%20analysis.png)<br> |   ![Hierarchical Clustering Dendrogram](../how%20differential%20privacy%20protects%20your%20research.png)<br> |
+|   <strong>Line Chart</strong>: <span style="font-style: italic;">Shows how your search patterns reveal your innovation roadmap over time.</span> |   <strong>Bar Chart</strong>: <span style="font-style: italic;">Reveal how differential privacy protects your research.</span> |
+| </div>                                   | </div>                                   |
+| <div style="text-align: center;">           | <div style="text-align: center;">           |
+|   ![Before Vs After Line Chart](../Before%20privacy%20displaying%20and%20after%20privacy%20display.png)<br> |   ![Quantitative Impact Bar Chart](../before%20vs%20After%20protection%20&%20Quantitative%20Impact%20Privacy%20protection%20Effectiveness.png)<br> |
+|   <strong>Line Chart</strong>: <span style="font-style: italic;">Illustrates before and after privacy protection proof.</span> |   <strong>Quantitative impact Bar Chart</strong>: <span style="font-style: italic;">Protection Effectiveness Report.</span> |
+| </div>                                   | </div>                                   |
+
+### Key Findings: What is Demonstrated
+
+- **Search patterns expose secret projects**:  
+  A founder’s evolving patent searches, from general (“blockchain”) to specific
+  (“HIPAA-compliant blockchain auth”), create a clear trail that reveals their
+  exact product roadmap, as shown in the *timeline visualization*.
+
+- **Competitors can act on this trail**:  
+  The simulation shows competitors can file defensive patents just **30 days
+  after detecting the pattern**, potentially blocking the original
+  innovator—mirroring real cases like *Waymo vs. Uber*.
+
+- **Differential privacy effectively masks intent**:  
+  By generalizing search terms (e.g., “authentication” → “security systems”) and
+  adding statistical noise to result counts, the **protected queries hide
+  critical implementation details** while preserving market insight.
+
+- **Privacy vs. utility is tunable—and balanced**:  
+  At **ε = 1.0 (recommended setting)**, the system delivers:
+  - **85% protection** against idea leakage  
+  - **85% data utility** for strategic decisions  
+  This balance makes it viable for real-world startup use.
+
+- **Visual proof of protection**:  
+  The side-by-side bar chart (“Raw vs. Protected Results”) confirms that:
+  - Raw searches expose a narrowing, high-intent trajectory  
+  - Protected searches appear as **broad, stable interest** in a general tech
+    area—**indistinguishable from background research**
+
+- **Synthetic data enables risk-free validation**:  
+  Using fully artificial patent records, we **ethically and legally**
+  demonstrated the threat and defense—without touching real USPTO data or
+  risking founder privacy.
+
+- **Strategic conclusion**:  
+  **Differential privacy is not just a technical tool—it’s a business shield**.
+  Startups can now conduct essential IP research **without broadcasting their
+  secret sauce**, preserving first-mover advantage and funding potential.
