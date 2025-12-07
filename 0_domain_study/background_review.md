@@ -414,7 +414,7 @@ talent and ideas.
   Economic Research.](https://www.nber.org/papers/w20954)
 - Oasis Labs. (2022). *IEX Case Study: Privacy-Preserving Data Analytics*. [*IEX
   Case Study: Privacy-Preserving Data
-  Analytics*](https://www.oasislabs.com/blog/iex-case-study)
+  Analytics*](https://medium.com/@oasislabs/oasis-labs-partners-with-google-cloud-to-pioneer-differential-privacy-in-data-analytics-and-ai-5410eed3f439)
 - United States Patent and Trademark Office. (2021). [*Progress and Potential: A
   profile of women inventors on U.S.
   patents*.](https://www.uspto.gov/sites/default/files/documents/Progress-and-Potential.pdf)
