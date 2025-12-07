@@ -17,3 +17,5 @@ will be added here to:
 - Analyze search term distributions
 - Profile technology category frequencies
 - Check data quality and structure
+
+[← Back to Project Overview](../README.md)
