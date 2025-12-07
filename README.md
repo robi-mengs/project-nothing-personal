@@ -125,6 +125,14 @@ ideas during patent and market research.
 [`5_communication_strategy/README.md`](./5_communication_strategy/README.md) for
 outreach guidance.
 
+### 6. Final Presentation
+
+This folder contains the final presentation summarizing the research findings,
+methodology, and future plans. It is designed to communicate the project's key
+insights to stakeholders and interested audiences.
+
+→ See [`6_final_presentation/README.md`](./6_final_presentation/README.md) for  
+
 ### Future Plans & Key Considerations
 
  This project aims to rigorously evaluate whether differential privacy can
