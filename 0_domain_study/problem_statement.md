@@ -95,3 +95,5 @@ work aims to create an innovation landscape where good ideas can flourish
 regardless of their origin, where the focus shifts from fearing exposure to
 enabling development, and where entrepreneurial potential isn't limited by
 systemic vulnerabilities.
+
+[← Back to Project Domain study](../0_domain_study/)
