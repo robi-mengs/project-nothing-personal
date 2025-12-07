@@ -91,3 +91,6 @@ Explore key insights from our topic modeling through these visualizations:
   **Differential privacy is not just a technical tool—it’s a business shield**.
   Startups can now conduct essential IP research **without broadcasting their
   secret sauce**, preserving first-mover advantage and funding potential.
+
+For a complete analysis, methodology, and detailed findings, please refer to the
+full report in → [privacy_protection.ipynb](./privacy_protection.ipynb).
