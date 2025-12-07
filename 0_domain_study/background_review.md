@@ -403,7 +403,7 @@ participation, thereby leveling the playing field and unlocking a wider pool of
 talent and ideas.
 
 ### References  
-<!-- markdownlint-disable MD033 MD013 MD041-->
+
 - Dwork, C. (2006).[Differential Privacy. In *Proceedings of the 33rd
   International Conference on Automata, Languages and Programming
   (ICALP)*](https://doi.org/10.1007/11787006_1)
@@ -424,8 +424,6 @@ talent and ideas.
 - Abadi, M., et al. (2016). [*Deep Learning with Differential Privacy*. In
   Proceedings of the 2016 ACM SIGSAC Conference on Computer and Communications
   Security.](https://doi.org/10.1145/2976749.2978318)
-- European Patent Office. (2023)
-  [*Women's participation in Inventorship*](https://www.epo.org/news-events/news/2023/20230307.html)
 - Reuters Waymo Vs Uber (2017)
   [Waymo accepts $245 million and Uber's 'regret' to settle self-driving car dispute](https://www.reuters.com/article/world/waymo-accepts-245-million-and-ubers-regret-to-settle-self-driving-car-disput-idUSKBN1FT2BD/)
 - Theranos (2018) [Theranos and Elisabeth
