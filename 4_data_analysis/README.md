@@ -93,3 +93,5 @@ Explore key insights from our topic modeling through these visualizations:
 
 For a complete analysis, methodology, and detailed findings, please refer to the
 full report in → [privacy_protection.ipynb](./privacy_protection.ipynb).
+
+[← Back to Project Overview](../README.md)
