@@ -131,7 +131,8 @@ This folder contains the final presentation summarizing the research findings,
 methodology, and future plans. It is designed to communicate the project's key
 insights to stakeholders and interested audiences.
 
-→ See [`6_final_presentation/README.md`](./6_final_presentation/README.md) for  
+→ See [`6_final_presentation/README.md`](./6_final_presentation/README.md) for
+the full presentation content.  
 
 ### Future Plans & Key Considerations
 
