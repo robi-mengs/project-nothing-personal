@@ -64,7 +64,9 @@ innovation race, **differential privacy is your silent ally**.
 ## How to Use This Repository
 
 This repository follows a structured data science workflow. Each phase is
-organized into folders with its own documentation.
+organized into folders with its own documentation.For a full look at the
+reflections behind each phase, explore the
+[retrospectives](./retrospectives/README.md) folder.
 
 ### [1. Domain Research](./0_domain_study/README.md)
 
