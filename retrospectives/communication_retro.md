@@ -46,3 +46,5 @@ Great things start small.
 This is my first stone.  
 And one day? I’ll hunt down those big tech companies not with lawsuits, but with
 open, fair, privacy-first tools they can’t ignore.
+
+[← Back to Project Overview](../retrospectives/README.md)
