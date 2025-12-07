@@ -22,9 +22,17 @@ approach was adopted for the following reasons:
   concept—**privacy-preserving market intelligence**—to be demonstrated without
   confounding real-world noise or legal ambiguity.
 
-The synthetic data is generated programmatically within the analysis notebook
-[privacy_protection.ipynb](https://colab.research.google.com/drive/1-ssAXLpjf9C04apXQY-AMap8Ym3hp9oT#scrollTo=MDphAmN8cQ5Q)
-for transparency and reproducibility.
+The synthetic dataset used in this project is generated programmatically within
+the analysis notebook:  
+[privacy_protection.ipynb](https://colab.research.google.com/drive/1-ssAXLpjf9C04apXQY-AMap8Ym3hp9oT#scrollTo=MDphAmN8cQ5Q)  
+ensuring full transparency and reproducibility.
+
+For reference, the complete data generation logic (including timeline setup,
+patent record synthesis , and CSV export) is included in **Section 2: The Legal
+& Safe Approach** of the notebook. Should you need the standalone code snippet
+for educational or auditing purposes, it is also available in the repository
+under
+[synthetic_USPTO_data_generator.ipynb](./synthetic_USPTO_data_generator.ipynb).
 
 ### Data Content and Structure
 
