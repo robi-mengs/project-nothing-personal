@@ -3,8 +3,6 @@
 #### ***Privacy-Preserving Intelligence for Fair Innovation***
 <!-- markdownlint-enable MD001-->
 
----
-
 ## About This Project
 
 **Project Nothing Personal** is an open research project that shows how
@@ -23,8 +21,6 @@ Using synthetic data and differential privacy, this project demonstrates:
 Everything here is designed to be **reproducible, ethical, and immediately
 useful** no legal risk, no real data, just clear code and actionable insight.
 
----
-
 ## The Research Question
 
 ***How can privacy-preserving technologies like differential privacy create a
@@ -40,8 +36,6 @@ project’s defined research scope, the nature of available synthetic data.
 > For a full explanation of key terms—including *underrepresented inventors*,
 > *idea protection*, and *market intelligence*—please refer to the
 > [Domain Study README](./0_domain_study/README.md).
-
----
 
 ### Research Conclusion: Privacy-Preserving Research Is Not Just Possible, It’s Essential
 
@@ -67,8 +61,6 @@ For early-stage innovators, this isn’t just a technical upgrade, it’s a
 **strategic necessity**. In a world where data trails dictate who wins the
 innovation race, **differential privacy is your silent ally**.  
 
----
-
 ## How to Use This Repository
 
 This repository follows a structured data science workflow. Each phase is
@@ -84,8 +76,6 @@ the problem space.
 → See [`0_domain_study/README.md`](./0_domain_study/README.md) for problem
 framing and research scope.
 
----
-
 ### [2. Data Sources and Structure](./1_datasets/README.md)  
 
 Contains
@@ -97,16 +87,12 @@ USPTO.
 → See [`1_datasets/README.md`](./1_datasets/README.md) for data model and
 generation logic.
 
----
-
 ### [3. Data Preparation](./2_data_preparation/README.md)
 
 Currently empty because synthetic data is generated directly in the analysis
 phase. If real data is added later, preprocessing scripts will appear here.  
 
 → See [`2_data_preparation/README.md`](./2_data_preparation/README.md)
-
----
 
 ### [4. Data Exploration](./3_data_exploration/README.md)  
 
@@ -115,8 +101,6 @@ but may include keyword or trend checks when extended in future.
 
 → See [`3_data_exploration/README.md`](./3_data_exploration/README.md) for
 exploration philosophy.
-
----
 
 ### [5. Data Analysis](./4_data_analysis/README.md)  
 
@@ -127,8 +111,6 @@ proofs and business impact metrics.
 
 → See [`4_data_analysis/README.md`](./4_data_analysis/README.md) for analytical
 approach.
-
----
 
 ### [6. Communication Strategy](./5_communication_strategy/README.md)  
 
@@ -142,8 +124,6 @@ ideas during patent and market research.
 → See
 [`5_communication_strategy/README.md`](./5_communication_strategy/README.md) for
 outreach guidance.
-
----
 
 ### Future Plans & Key Considerations
 
@@ -170,8 +150,6 @@ outreach guidance.
   datasets, privacy evaluation metrics, visualization dashboards, and a
   compliance checklist for ethical IP research designed for academic review and
   startup adoption.
-
----
 
 ### Repository Structure
 <!-- Repository Structure -->
@@ -202,8 +180,6 @@ outreach guidance.
 
 ```
 
----
-
 ## Who Is This For?
 
 - **Student inventors** filing their first provisional patent  
@@ -215,5 +191,3 @@ outreach guidance.
 > “Privacy in innovation is not about concealment—it’s about ensuring equitable
 conditions for exploration, free from the threat of strategic capture by
 dominant actors.” — Project Nothing Personal
-
----
