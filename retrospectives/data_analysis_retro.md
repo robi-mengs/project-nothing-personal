@@ -40,4 +40,4 @@ tuning, I could offer founders nuanced guidance: *“Use ε = 0.5 if you’re in
 stealth mode; ε = 1.5 if you’re validating before filing.”* Knowing this earlier
 would have strengthened both the rigor and practicality of the analysis.
 
-[← Back to Project Overview](../retrospectives/README.md)
+[← Back to Retrospective Readme](../retrospectives/README.md)

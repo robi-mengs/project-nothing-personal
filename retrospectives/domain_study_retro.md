@@ -35,4 +35,4 @@ that’s not just academically sound, but personally meaningful.
 This domain study isn’t perfect, but it’s **mine**. And it reflects a journey
 from uncertainty to purpose, one synthetic patent at a time.
 
-[← Back to Project Overview](../retrospectives/README.md)
+[← Back to Retrospective Readme](../retrospectives/README.md)

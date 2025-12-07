@@ -31,4 +31,4 @@ framework on a completely different domain—perhaps healthcare or academic
 publishing to see how generalizable the approach really is. This experience
 opened the door; next time, I’d walk through it wider.
 
-[← Back to Project Overview](../retrospectives/README.md)
+[← Back to Retrospective Readme](../retrospectives/README.md)
