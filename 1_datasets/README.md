@@ -24,8 +24,8 @@ approach was adopted for the following reasons:
 
 The synthetic dataset used in this project is generated programmatically within
 the analysis notebook:
-[privacy_protection.ipynb](../4_data_analysis/privacy_protection.ipynb) ensuring full transparency
-and reproducibility.
+[privacy_protection.ipynb](../4_data_analysis/privacy_protection.ipynb) ensuring
+full transparency and reproducibility.
 
 For reference, the complete data generation logic (including timeline setup,
 patent record synthesis , and CSV export) is included in **Section 2: The Legal
@@ -61,11 +61,11 @@ This synthetic dataset directly supports the investigation:
 > intellectual property?”*
 
 While no real demographic data is used, the simulation models how **search
-behavior**—not identity—can expose strategic intent. The focus is on the
+behavior** not identity can expose strategic intent. The focus is on the
 **process** of research, not specific inventors. By showing how even generic
 search patterns (e.g., “blockchain” → “HIPAA-compliant auth”) reveal a roadmap,
 the project demonstrates why **privacy-aware tools** are essential for equitable
-participation in innovation—especially for solo inventors or small teams without
+participation in innovation especially for solo inventors or small teams without
 legal shields.
 
 ### Ethical and Methodological Integrity
