@@ -403,7 +403,7 @@ participation, thereby leveling the playing field and unlocking a wider pool of
 talent and ideas.
 
 ### References  
-
+<!-- markdownlint-disable MD033 MD013 MD041-->
 - Dwork, C. (2006).[Differential Privacy. In *Proceedings of the 33rd
   International Conference on Automata, Languages and Programming
   (ICALP)*](https://doi.org/10.1007/11787006_1)
