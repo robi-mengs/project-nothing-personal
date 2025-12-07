@@ -23,8 +23,8 @@ approach was adopted for the following reasons:
   confounding real-world noise or legal ambiguity.
 
 The synthetic dataset used in this project is generated programmatically within
-the analysis notebook:  
-[privacy_protection.ipynb](https://colab.research.google.com/drive/1-ssAXLpjf9C04apXQY-AMap8Ym3hp9oT#scrollTo=MDphAmN8cQ5Q)  
+the analysis notebook:
+[privacy_protection.ipynb](../4_data_analysis/privacy_protection.ipynb) ,
 ensuring full transparency and reproducibility.
 
 For reference, the complete data generation logic (including timeline setup,
