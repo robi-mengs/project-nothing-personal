@@ -28,15 +28,14 @@ plausible patent numbers, application and grant dates, technology categories
 
 For clarity and modularity, the data generation logic is implemented in a
 dedicated notebook named
-[`synthetic_uspto_data_generator.ipynb`](./1_datasets/synthetic_uspto_data_generator.ipynb),
+[`synthetic_USPTO_data_generator.ipynb`](../1_datasets/synthetic_USPTO_data_generator.ipynb),
 while the core privacy analysis—including risk simulation and differential
 privacy—is contained in
-[`privacy_protection.ipynb`](./4_data_analysis/privacy_protection.ipynb). The
-resulting dataset is saved as `synthetic_uspto_data.raw.csv` for transparency
-and reuse. No external datasets are used; all data is synthetically generated
-for analytical demonstration. The focus is on **strategic insight**, **risk
-modeling**, and **privacy-aware research design** data cleaning or exploratory
-profiling.
+[`privacy_protection.ipynb`](./privacy_protection.ipynb). The resulting dataset
+is saved as `synthetic_uspto_data.raw.csv` for transparency and reuse. No
+external datasets are used; all data is synthetically generated for analytical
+demonstration. The focus is on **strategic insight**, **risk modeling**, and
+**privacy-aware research design** data cleaning or exploratory profiling.
 
 ### 📊 Visual Outputs
 
