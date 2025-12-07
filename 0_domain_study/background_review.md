@@ -428,3 +428,5 @@ talent and ideas.
   [Waymo accepts $245 million and Uber's 'regret' to settle self-driving car dispute](https://www.reuters.com/article/world/waymo-accepts-245-million-and-ubers-regret-to-settle-self-driving-car-disput-idUSKBN1FT2BD/)
 - Theranos (2018) [Theranos and Elisabeth
   Holmes1](https://scholarworks.uark.edu/cgi/viewcontent.cgi?article=1072&context=finnuht)
+
+[← Back to Project Domain study](../0_domain_study/)
