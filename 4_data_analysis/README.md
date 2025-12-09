@@ -1,6 +1,6 @@
 # Data Analysis
 
-## [`privacy_protection.ipynb`](https://colab.research.google.com/drive/1-ssAXLpjf9C04apXQY-AMap8Ym3hp9oT#scrollTo=MDphAmN8cQ5Q)
+## [`privacy_protection.ipynb`](./privacy_protection.ipynb)
 
 This notebook analyzes the strategic risk of exposing a startup's innovation
 roadmap through sequential patent searches and proposes a differential
@@ -92,6 +92,6 @@ Explore key insights from our topic modeling through these visualizations:
   secret sauce**, preserving first-mover advantage and funding potential.
 
 For a complete analysis, methodology, and detailed findings, please refer to the
-full report in → [privacy_protection.ipynb](./privacy_protection.ipynb).
+full report in → [privacy_protection.ipynb](./).
 
 [← Back to Project Overview](../README.md)
