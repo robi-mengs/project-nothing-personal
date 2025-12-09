@@ -50,7 +50,7 @@ safer** this month and then 100 next quarter.
 ## My First Artifact
 
 A single, well-documented Jupyter notebook:  
-[`privacy_protection.ipynb`](https://colab.research.google.com/drive/13X7I2eD6g1cUVMU603GrBmRNMIrMtenu?authuser=0#scrollTo=mntgRugXnkxY)
+[`privacy_protection.ipynb`](../4_data_analysis/privacy_protection.ipynb)
 
 It’s designed to be:
 
