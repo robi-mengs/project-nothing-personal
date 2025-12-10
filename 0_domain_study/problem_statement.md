@@ -3,7 +3,7 @@
 The journey to this research began at the intersection of my entrepreneurial
 experience and a series of enlightening conversations with
 [Ian Mullholand](https://www.linkedin.com/in/ianmulholland/), who serves as both
-a friend and teacher. During our discussions about emerging as both a friend and
+a teacher and friend. During our discussions about emerging as both a friend and
 teacher. During our discussions about emerging technological trends, Ian shared
 two crucial insights from his perspective that would fundamentally shape my
 research direction.
